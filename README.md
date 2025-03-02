@@ -10,7 +10,7 @@
 6. [Internet](#6-internet)
 
 _Img.1: The program window
-<p align="center"><img src="Docs/images/screenshot.png?raw=true" width="100%"/>
+<p align="center"><img src="Docs/images/screenshot.png?raw=true" width="80%"/>
 
 ## 1. GENERAL INFO
 
