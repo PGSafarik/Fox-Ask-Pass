@@ -1,0 +1,45 @@
+#ifndef FXRUNNER_VERSION_H
+#define FXRUNNER_VERSION_H
+
+namespace FXRunner {
+/*
+ This file is generation automatically. Do not edit, please
+ Project Initial full version :
+*/
+  namespace Version {
+	/* Application */
+	static const char PROJECT_ID[ ]        = "fxaskpass";
+	static const char PROJECT_NAME[ ]      = "Fox Ask Pass";
+	static const char PROJECT_COPYRIGHT[ ] = "P.G.Safarik";
+	static const char PROJECT_LICENSION[ ] = "GNU GPL v3";
+	static const char PROJECT_PLATFORM[ ]  = "amd64";
+	static const char PROJECT_OS[ ]        = "Linux";
+	static const char PROJECT_CATEGORY[ ]  = "Desktop, GUI, Utils";
+
+	//Date Version Types
+	static const char DATE[]                 = "${FXGHI_VER_DATE}";
+	static const char MONTH[]                = "${FXGHI_VER_MONTH}";
+	static const char YEAR[]                 = "${FXGHI_VER_YEAR}";
+	static const char UBUNTU_VERSION_STYLE[] = "${PROJECT_VERSION_UBUNTU}";
+
+	//Software Status
+	static const char STATUS[]       =  "${FXGHI_VER_FLAG}";
+	static const char STATUS_SHORT[] =  "${FXGHI_VER_SHFLAG}";
+
+	//Standard Version Type
+	static const long MAJOR    = ${FXGHI_VER_MAJOR};
+	static const long MINOR    = ${FXGHI_VER_MINOR};
+	static const long REVISION = ${FXGHI_VER_REVISION};
+	static const long BUILD    = ${FXGHI_VER_BUILD};
+
+	//Miscellaneous Version Types
+	//#define RC_FILEVERSION ${FXGHI_VER_MAJOR},${FXGHI_VER_MINOR},${FXGHI_VER_REVISION},${FXGHI_VER_BUILD}
+	//#define RC_FILEVERSION_STRING "${FXGHI_VER_MAJOR}, ${FXGHI_VER_MINOR}, ${FXGHI_VER_REVISION}, ${FXGHI_VER_BUILD}\0"
+	static const char FULLVERSION_STRING[] = "${PROJECT_VERSION_FULL}";
+
+	//These values are to keep track of your versioning and testing state.
+    static const long TEST_COUNT    = 0;
+    static const long TEST_HISTORY  = 0;
+  }     /* version */
+}       /* FXRUNNER */
+#endif  /* FXRUNNER_VERSION_H */
