@@ -35,5 +35,5 @@ záruky PRODEJNOSTI nebo VHODNOSTI PRO KONKRÉTNÍ ÚČEL. Další podrobnosti n
 Spolu s byste měli obdržet kopii GNU General Public License. Pokud ne, podívejte se na <https://www.gnu.org/licenses/>.
 
 ## 6. INTERNET
-    * [Blog autora (CZ)](http://bfuplusplus.blogspot.cz/)
-    * [Domovská stránka Foxtoolkitu](http://fox-toolkit.org/)
+  * [Blog autora (CZ)](http://bfuplusplus.blogspot.cz/)
+  * [Domovská stránka Foxtoolkitu](http://fox-toolkit.org/)
