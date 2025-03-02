@@ -10,7 +10,7 @@
 6. [Internet](#6-internet)
 
 _Img.1: Okno programu
-<p align="center"><img src="Docs/images/screenshot.png?raw=true" width="80%"/>
+<p align="center"><img src="Docs/images/screenshot.png?raw=true" width="50%"/>
 
 ## 1. ZÁKLADNÍ INFORMACE
 
